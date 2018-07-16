@@ -14,7 +14,7 @@ if global.isGeneratingSnapshot
   require('autocomplete-atom-api')
   require('autocomplete-css')
   require('autocomplete-html')
-  require('autocomplete-plus')
+  #require('autocomplete-plus')
   require('autocomplete-snippets')
   require('autoflow')
   require('autosave')
